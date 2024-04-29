@@ -1,0 +1,33 @@
+﻿  kuanggong.cpp
+D:\vs2019\Project\Project5\kuanggong.cpp(70,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(70,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(71,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(71,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(79,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(81,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(81,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(99,9): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(232,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(233,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(234,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(235,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(236,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(237,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(238,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(257,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(258,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(259,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(263,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(263,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(268,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(268,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(272,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(272,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(273,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(273,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(274,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(274,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs2019\Project\Project5\kuanggong.cpp(282,24): warning C4305: “初始化”: 从“double”到“float”截断
+D:\vs2019\Project\Project5\kuanggong.cpp(421,22): warning C4305: “+=”: 从“double”到“float”截断
+D:\vs2019\Project\Project5\kuanggong.cpp(423,22): warning C4305: “-=”: 从“double”到“float”截断
+  Project5.vcxproj -> D:\vs2019\Project\Debug\Project5.exe
